@@ -16,7 +16,7 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 ```
 choco upgrade chocolatey
 ````
-
+3. Install Basic Windows Packages
 
 ```
 choco install -y  vlc 7zip ccleaner googlechrome ublockorigin-chrome adobereader jre8 vcredist-all python dogtail.dotnet3.5sp1 notepadplusplus.install teamviewer nvidia-display-driver qbittorrent megatools
